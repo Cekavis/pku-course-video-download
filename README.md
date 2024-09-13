@@ -1,5 +1,7 @@
 # PKU Course Video Download
 
+[PKU Art](https://github.com/zhuozhiyongde/PKU-Art) 已经包含了这个脚本的功能 ~~（又重复造轮子了）~~，比较推荐
+
 ## 安装
 
 请先安装 [Tampermonkey](https://www.tampermonkey.net/)，然后 [点此安装脚本](https://github.com/Cekavis/pku-course-video-download/raw/main/pku-course-video-download.user.js)。
